@@ -54,7 +54,7 @@ spring:
   datasource:
     #type: com.alibaba.druid.pool.DruidDataSource
     # 连接URL
-    url: jdbc:mysql://192.168.100.1:32084/dwsurvey?useUnicode=true&characterEncoding=utf8
+    url: jdbc:mysql://192.168.243.6:31618/dwsurvey?useUnicode=true&characterEncoding=utf8
     # 连接账号
     username: root
     # 连接密码
